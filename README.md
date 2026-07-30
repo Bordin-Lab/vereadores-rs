@@ -114,7 +114,7 @@ All results are observational. Revenue and viability are jointly determined, and
 
 ## Citation
 
-Use the metadata in [`CITATION.cff`](CITATION.cff). A versioned Zenodo DOI can be added after the GitHub repository receives its first archival release.
+Use the metadata in [`CITATION.cff`](CITATION.cff).
 
 ## Licensing
 
