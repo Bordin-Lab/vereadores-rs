@@ -1,0 +1,10 @@
+ano,teste,estimativa,ic95_inferior,ic95_superior,p_valor,detalhe
+2016,AUC despesa total − AUC despesa não digital,-0.00015069318866789416,-0.0013562386980108254,0.0006027727546715766,,5000 reamostragens estratificadas; P(Δ>0)=0.239
+2016,Adoção digital: eleitos vs. não eleitos,15.75,,,0.120919881305638,"tabela [[315, 1], [20, 1]]"
+2016,Despesa digital: Mann–Whitney,3466.0,,,0.010333084234289792,Teste bicaudal entre eleitos e não eleitos
+2020,AUC despesa total − AUC despesa não digital,0.005598774163130593,-0.007661480433757695,0.022159358793022114,,5000 reamostragens estratificadas; P(Δ>0)=0.748
+2020,Adoção digital: eleitos vs. não eleitos,2.65666372462489,,,0.039412424012277805,"tabela [[301, 103], [11, 10]]"
+2020,Despesa digital: Mann–Whitney,5499.0,,,0.003228241229517883,Teste bicaudal entre eleitos e não eleitos
+2024,AUC despesa total − AUC despesa não digital,0.01339929911358484,-0.0010307153164296201,0.028860028860028808,,5000 reamostragens estratificadas; P(Δ>0)=0.965
+2024,Adoção digital: eleitos vs. não eleitos,14.615384615384615,,,7.535550268045999e-06,"tabela [[140, 91], [2, 19]]"
+2024,Despesa digital: Mann–Whitney,4053.5,,,1.9517222224581392e-08,Teste bicaudal entre eleitos e não eleitos

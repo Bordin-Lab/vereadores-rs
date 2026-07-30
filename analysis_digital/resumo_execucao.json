@@ -1,0 +1,18 @@
+{
+  "painel_candidatos": 81974,
+  "municipios": 497,
+  "anos": [
+    2016,
+    2020,
+    2024
+  ],
+  "pelotas_2024": {
+    "fracao_digital": 0.11187136144513705,
+    "taxa_adocao": 0.4365079365079365,
+    "auc_receita": 0.9204287775716347,
+    "auc_despesa_total": 0.9154813440527726,
+    "auc_despesa_nao_digital": 0.9020820449391878,
+    "auc_despesa_digital": 0.8356009070294784
+  },
+  "conclusao_preliminar": "Pelotas é mais digitalizada que o conjunto estadual em 2020 e 2024. Em 2024, o gasto digital está fortemente associado à eleição, mas retirar a parcela digital reduz pouco a AUC da despesa total; portanto, o digital é um componente relevante, não uma explicação suficiente para o alto acoplamento entre dinheiro e eleição."
+}

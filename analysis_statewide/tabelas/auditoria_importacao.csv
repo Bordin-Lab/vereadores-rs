@@ -1,0 +1,4 @@
+ano,arquivo,linhas_vereador_arquivo_receitas,candidatos_com_receita_arquivo,total_receitas_vereador_arquivo,candidaturas_validas,municipios,eleitos,candidaturas_validas_com_receita,candidaturas_validas_sem_receita,ids_receita_sem_candidatura_valida,total_receitas_candidaturas_validas
+2016,tse_downloads/extracted/receitas_candidatos_prestacao_contas_final_2016_RS.txt,153587,24879,83398242.66000001,25622,497,4910,24486,1136,393,83140694.14
+2020,tse_downloads/extracted/receitas_candidatos_2020_RS.csv,142355,30676,99133012.85,30311,497,4903,30202,109,474,98873467.94
+2024,tse_downloads/extracted/receitas_candidatos_2024_RS.csv,115119,26524,167990370.88,26041,497,4903,26016,25,508,167499251.92999998

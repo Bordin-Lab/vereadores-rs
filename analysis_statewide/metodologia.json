@@ -1,0 +1,46 @@
+{
+  "escopo": "Candidaturas a vereador nos 497 municípios do Rio Grande do Sul, eleições municipais de 2016, 2020 e 2024.",
+  "unidade_analise": "candidato; indicadores agregados por município-ano",
+  "inclusao": "DS_CARGO = VEREADOR e DS_SIT_TOT_TURNO diferente de #NULO; candidaturas sem receita são mantidas com valor zero.",
+  "resultado": "eleito = DS_SIT_TOT_TURNO começa por ELEITO",
+  "precisao_monetaria": "totais candidato-fonte arredondados a centavos antes dos indicadores, preservando empates substantivos na AUC",
+  "deflacao": {
+    "base": "reais de outubro de 2024",
+    "indice": "IPCA geral, dezembro de 1993 = 100",
+    "valores": {
+      "2016": 4752.86,
+      "2020": 5438.12,
+      "2024": 7036.33
+    }
+  },
+  "fontes": {
+    "Pessoas físicas": "DS/Tipo de origem = Recursos de pessoas físicas",
+    "Recursos próprios": "DS/Tipo de origem = Recursos próprios",
+    "Fundo Partidário": "Fonte declarada contém Fundo Partidário",
+    "FEFC": "Fonte declarada contém Fundo Especial",
+    "Transferências políticas": "origem partido político ou outros candidatos, quando a fonte não é Fundo Partidário nem FEFC",
+    "Financiamento coletivo": "origem Recursos de Financiamento Coletivo",
+    "Empresas": "origem Recursos de pessoas jurídicas",
+    "Outros": "demais origens"
+  },
+  "observacao_empresas": "Não há registros classificados pelo TSE como recursos de pessoas jurídicas para vereador no RS em 2016; CNPJs de diretórios partidários e de outros candidatos não são tratados como empresas.",
+  "modelo_principal": "regressão logística condicional exata por município-ano; receita transformada como log2(1 + receita_real/1000); erros-padrão clusterizados por município.",
+  "modelo_origens": "regressão logística exploratória com interceptos fixos por município-ano e origens simultâneas; erros-padrão clusterizados por município.",
+  "curvas_probabilidade": "padronização descritiva obtida do logit com dummies de município-ano, usando a média não ponderada dos 497 municípios.",
+  "auc_municipal": "probabilidade de um eleito escolhido ao acaso ter receita maior que um não eleito do mesmo município-ano; empates recebem 0,5.",
+  "ideologia": "Borges e Vidigal (2023); siglas pequenas e sucessoras são documentadas na tabela de classificação. A sensibilidade move PDT, PSB e REDE da esquerda para o centro.",
+  "arquivos_tse": {
+    "2016": {
+      "candidaturas": "tse_downloads/candidatos/consulta_cand_2016_RS.csv",
+      "receitas": "tse_downloads/extracted/receitas_candidatos_prestacao_contas_final_2016_RS.txt"
+    },
+    "2020": {
+      "candidaturas": "tse_downloads/candidatos/consulta_cand_2020_RS.csv",
+      "receitas": "tse_downloads/extracted/receitas_candidatos_2020_RS.csv"
+    },
+    "2024": {
+      "candidaturas": "tse_downloads/candidatos/consulta_cand_2024_RS.csv",
+      "receitas": "tse_downloads/extracted/receitas_candidatos_2024_RS.csv"
+    }
+  }
+}
