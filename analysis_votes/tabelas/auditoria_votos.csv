@@ -1,0 +1,4 @@
+ano,arquivo,linhas_arquivo,linhas_vereador_turno_1,candidatos_arquivo_votacao,votos_nominais_validos_arquivo,arquivo_partido,linhas_partido_arquivo,linhas_partido_vereador_turno_1,listas_municipio,votos_validos_listas,candidatos_painel,candidatos_integrados,candidatos_painel_sem_linha_votacao,candidatos_votacao_fora_painel,votos_validos_painel,diferenca_nominais_lista_menos_painel
+2016,votacao_candidato_munzona_2016_RS.csv,37234,35738,25215,5975535,votacao_partido_munzona_2016_RS.csv,6529,5026,1697,6364668,25622,25215,407,0,5975535.0,0.0
+2020,votacao_candidato_munzona_2020_RS.csv,44610,43015,29840,5581484,votacao_partido_munzona_2020_RS.csv,5193,3570,3025,5897083,30311,29840,471,0,5581484.0,0.0
+2024,votacao_candidato_munzona_2024_RS.csv,35918,34535,25913,5930989,votacao_partido_munzona_2024_RS.csv,5660,4277,2908,6171107,26041,25913,128,0,5930989.0,0.0

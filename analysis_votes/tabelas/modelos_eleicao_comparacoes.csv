@@ -1,0 +1,6 @@
+ano,etapa,comparacao,lr,graus_liberdade,p_valor_lr
+2016,Votos correntes,Dinheiro + lista vs. dinheiro,193.6657670574059,1,5.037469037762312e-44
+2020,Votos correntes,Dinheiro + lista vs. dinheiro,746.0917083028653,1,2.839277526809961e-164
+2020,Pré-campanha,Viabilidade prévia + dinheiro vs. prévia,1347.0816209161349,1,6.635352310082792e-295
+2024,Votos correntes,Dinheiro + lista vs. dinheiro,1335.5248531917714,1,2.154033243320708e-292
+2024,Pré-campanha,Viabilidade prévia + dinheiro vs. prévia,939.9636696949055,1,2.0156088084589463e-206

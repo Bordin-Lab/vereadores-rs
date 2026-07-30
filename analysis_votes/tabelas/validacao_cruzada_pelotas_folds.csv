@@ -1,0 +1,651 @@
+ano,fold,modelo,auc
+2016,1,Somente dinheiro,0.97265625
+2016,1,Votos correntes + lista,1.0
+2016,1,Votos correntes + lista + dinheiro,1.0
+2016,2,Somente dinheiro,0.9587301587301588
+2016,2,Votos correntes + lista,0.9809523809523809
+2016,2,Votos correntes + lista + dinheiro,0.9746031746031746
+2016,3,Somente dinheiro,0.9444444444444444
+2016,3,Votos correntes + lista,1.0
+2016,3,Votos correntes + lista + dinheiro,0.9841269841269842
+2016,4,Somente dinheiro,0.9484126984126984
+2016,4,Votos correntes + lista,0.988095238095238
+2016,4,Votos correntes + lista + dinheiro,0.9682539682539683
+2016,5,Somente dinheiro,0.9563492063492063
+2016,5,Votos correntes + lista,0.988095238095238
+2016,5,Votos correntes + lista + dinheiro,0.9841269841269841
+2016,6,Somente dinheiro,0.9453125
+2016,6,Votos correntes + lista,1.0
+2016,6,Votos correntes + lista + dinheiro,0.98828125
+2016,7,Somente dinheiro,0.9777777777777777
+2016,7,Votos correntes + lista,0.9777777777777777
+2016,7,Votos correntes + lista + dinheiro,0.9873015873015873
+2016,8,Somente dinheiro,1.0
+2016,8,Votos correntes + lista,1.0
+2016,8,Votos correntes + lista + dinheiro,1.0
+2016,9,Somente dinheiro,0.9682539682539683
+2016,9,Votos correntes + lista,0.9920634920634921
+2016,9,Votos correntes + lista + dinheiro,0.9841269841269841
+2016,10,Somente dinheiro,0.888888888888889
+2016,10,Votos correntes + lista,0.9841269841269842
+2016,10,Votos correntes + lista + dinheiro,0.9603174603174603
+2016,11,Somente dinheiro,0.96875
+2016,11,Votos correntes + lista,1.0
+2016,11,Votos correntes + lista + dinheiro,0.99609375
+2016,12,Somente dinheiro,0.965079365079365
+2016,12,Votos correntes + lista,0.9968253968253967
+2016,12,Votos correntes + lista + dinheiro,0.9809523809523809
+2016,13,Somente dinheiro,0.9682539682539683
+2016,13,Votos correntes + lista,1.0
+2016,13,Votos correntes + lista + dinheiro,0.9920634920634921
+2016,14,Somente dinheiro,0.9126984126984127
+2016,14,Votos correntes + lista,0.9841269841269841
+2016,14,Votos correntes + lista + dinheiro,0.9603174603174603
+2016,15,Somente dinheiro,0.9841269841269842
+2016,15,Votos correntes + lista,0.9920634920634921
+2016,15,Votos correntes + lista + dinheiro,0.9920634920634921
+2016,16,Somente dinheiro,0.88671875
+2016,16,Votos correntes + lista,0.9921875
+2016,16,Votos correntes + lista + dinheiro,0.96484375
+2016,17,Somente dinheiro,0.9873015873015873
+2016,17,Votos correntes + lista,1.0
+2016,17,Votos correntes + lista + dinheiro,0.9968253968253968
+2016,18,Somente dinheiro,0.9761904761904762
+2016,18,Votos correntes + lista,0.9841269841269842
+2016,18,Votos correntes + lista + dinheiro,0.9960317460317459
+2016,19,Somente dinheiro,0.9047619047619048
+2016,19,Votos correntes + lista,0.9960317460317459
+2016,19,Votos correntes + lista + dinheiro,0.9801587301587301
+2016,20,Somente dinheiro,0.992063492063492
+2016,20,Votos correntes + lista,1.0
+2016,20,Votos correntes + lista + dinheiro,1.0
+2016,21,Somente dinheiro,0.8984375
+2016,21,Votos correntes + lista,0.9921875
+2016,21,Votos correntes + lista + dinheiro,0.9765625
+2016,22,Somente dinheiro,0.9746031746031747
+2016,22,Votos correntes + lista,1.0
+2016,22,Votos correntes + lista + dinheiro,0.9841269841269841
+2016,23,Somente dinheiro,0.9523809523809523
+2016,23,Votos correntes + lista,0.9801587301587301
+2016,23,Votos correntes + lista + dinheiro,0.9761904761904762
+2016,24,Somente dinheiro,0.9523809523809524
+2016,24,Votos correntes + lista,0.9880952380952381
+2016,24,Votos correntes + lista + dinheiro,0.9801587301587301
+2016,25,Somente dinheiro,0.9761904761904762
+2016,25,Votos correntes + lista,0.996031746031746
+2016,25,Votos correntes + lista + dinheiro,1.0
+2016,26,Somente dinheiro,0.91796875
+2016,26,Votos correntes + lista,1.0
+2016,26,Votos correntes + lista + dinheiro,0.96484375
+2016,27,Somente dinheiro,0.9809523809523809
+2016,27,Votos correntes + lista,1.0
+2016,27,Votos correntes + lista + dinheiro,0.9904761904761905
+2016,28,Somente dinheiro,0.9841269841269841
+2016,28,Votos correntes + lista,0.992063492063492
+2016,28,Votos correntes + lista + dinheiro,0.9920634920634921
+2016,29,Somente dinheiro,0.9761904761904763
+2016,29,Votos correntes + lista,0.9999999999999999
+2016,29,Votos correntes + lista + dinheiro,0.9920634920634921
+2016,30,Somente dinheiro,0.8928571428571429
+2016,30,Votos correntes + lista,0.9841269841269842
+2016,30,Votos correntes + lista + dinheiro,0.9642857142857142
+2016,31,Somente dinheiro,0.9609375
+2016,31,Votos correntes + lista,1.0
+2016,31,Votos correntes + lista + dinheiro,0.9921875
+2016,32,Somente dinheiro,0.9555555555555555
+2016,32,Votos correntes + lista,0.9904761904761904
+2016,32,Votos correntes + lista + dinheiro,0.9682539682539683
+2016,33,Somente dinheiro,0.9166666666666666
+2016,33,Votos correntes + lista,0.976190476190476
+2016,33,Votos correntes + lista + dinheiro,0.9603174603174603
+2016,34,Somente dinheiro,0.9682539682539683
+2016,34,Votos correntes + lista,0.988095238095238
+2016,34,Votos correntes + lista + dinheiro,0.9880952380952381
+2016,35,Somente dinheiro,0.9722222222222222
+2016,35,Votos correntes + lista,1.0
+2016,35,Votos correntes + lista + dinheiro,0.9960317460317459
+2016,36,Somente dinheiro,1.0
+2016,36,Votos correntes + lista,0.99609375
+2016,36,Votos correntes + lista + dinheiro,1.0
+2016,37,Somente dinheiro,0.946031746031746
+2016,37,Votos correntes + lista,1.0
+2016,37,Votos correntes + lista + dinheiro,0.9873015873015872
+2016,38,Somente dinheiro,0.9365079365079365
+2016,38,Votos correntes + lista,0.996031746031746
+2016,38,Votos correntes + lista + dinheiro,0.9761904761904762
+2016,39,Somente dinheiro,0.9761904761904762
+2016,39,Votos correntes + lista,0.9841269841269842
+2016,39,Votos correntes + lista + dinheiro,0.988095238095238
+2016,40,Somente dinheiro,0.9325396825396826
+2016,40,Votos correntes + lista,0.9841269841269841
+2016,40,Votos correntes + lista + dinheiro,0.9682539682539683
+2016,41,Somente dinheiro,0.92578125
+2016,41,Votos correntes + lista,1.0
+2016,41,Votos correntes + lista + dinheiro,1.0
+2016,42,Somente dinheiro,0.9746031746031746
+2016,42,Votos correntes + lista,0.9936507936507936
+2016,42,Votos correntes + lista + dinheiro,0.9968253968253968
+2016,43,Somente dinheiro,0.9206349206349207
+2016,43,Votos correntes + lista,0.988095238095238
+2016,43,Votos correntes + lista + dinheiro,0.9444444444444444
+2016,44,Somente dinheiro,0.9722222222222222
+2016,44,Votos correntes + lista,1.0
+2016,44,Votos correntes + lista + dinheiro,0.996031746031746
+2016,45,Somente dinheiro,0.9642857142857143
+2016,45,Votos correntes + lista,1.0
+2016,45,Votos correntes + lista + dinheiro,0.988095238095238
+2016,46,Somente dinheiro,0.9765625
+2016,46,Votos correntes + lista,1.0
+2016,46,Votos correntes + lista + dinheiro,0.9921875
+2016,47,Somente dinheiro,0.9682539682539681
+2016,47,Votos correntes + lista,1.0
+2016,47,Votos correntes + lista + dinheiro,1.0
+2016,48,Somente dinheiro,0.9603174603174603
+2016,48,Votos correntes + lista,1.0
+2016,48,Votos correntes + lista + dinheiro,0.9960317460317459
+2016,49,Somente dinheiro,0.9047619047619048
+2016,49,Votos correntes + lista,0.9761904761904763
+2016,49,Votos correntes + lista + dinheiro,0.9642857142857143
+2016,50,Somente dinheiro,0.9642857142857143
+2016,50,Votos correntes + lista,0.9801587301587301
+2016,50,Votos correntes + lista + dinheiro,0.9801587301587301
+2020,1,Somente dinheiro,0.9722222222222223
+2020,1,Votos correntes + lista,0.9814814814814815
+2020,1,Votos correntes + lista + dinheiro,0.9814814814814815
+2020,1,Viabilidade prévia,0.9876543209876544
+2020,1,Viabilidade prévia + dinheiro,0.9814814814814815
+2020,2,Somente dinheiro,0.9135802469135803
+2020,2,Votos correntes + lista,1.0
+2020,2,Votos correntes + lista + dinheiro,0.9907407407407408
+2020,2,Viabilidade prévia,0.6882716049382717
+2020,2,Viabilidade prévia + dinheiro,0.861111111111111
+2020,3,Somente dinheiro,0.867283950617284
+2020,3,Votos correntes + lista,1.0
+2020,3,Votos correntes + lista + dinheiro,0.9845679012345679
+2020,3,Viabilidade prévia,0.7901234567901234
+2020,3,Viabilidade prévia + dinheiro,0.8734567901234568
+2020,4,Somente dinheiro,0.9691358024691358
+2020,4,Votos correntes + lista,0.9598765432098766
+2020,4,Votos correntes + lista + dinheiro,0.9691358024691358
+2020,4,Viabilidade prévia,0.8287037037037037
+2020,4,Viabilidade prévia + dinheiro,0.9537037037037037
+2020,5,Somente dinheiro,0.915
+2020,5,Votos correntes + lista,0.995
+2020,5,Votos correntes + lista + dinheiro,0.9925
+2020,5,Viabilidade prévia,0.89125
+2020,5,Viabilidade prévia + dinheiro,0.9400000000000001
+2020,6,Somente dinheiro,0.8364197530864197
+2020,6,Votos correntes + lista,1.0
+2020,6,Votos correntes + lista + dinheiro,0.9907407407407407
+2020,6,Viabilidade prévia,0.8425925925925926
+2020,6,Viabilidade prévia + dinheiro,0.9043209876543209
+2020,7,Somente dinheiro,0.9969135802469136
+2020,7,Votos correntes + lista,0.9969135802469136
+2020,7,Votos correntes + lista + dinheiro,0.9969135802469136
+2020,7,Viabilidade prévia,0.7700617283950617
+2020,7,Viabilidade prévia + dinheiro,0.95679012345679
+2020,8,Somente dinheiro,0.9814814814814815
+2020,8,Votos correntes + lista,0.9907407407407408
+2020,8,Votos correntes + lista + dinheiro,0.9876543209876543
+2020,8,Viabilidade prévia,0.9058641975308642
+2020,8,Viabilidade prévia + dinheiro,0.9814814814814814
+2020,9,Somente dinheiro,0.9320987654320988
+2020,9,Votos correntes + lista,0.9783950617283951
+2020,9,Votos correntes + lista + dinheiro,0.9753086419753086
+2020,9,Viabilidade prévia,0.8811728395061729
+2020,9,Viabilidade prévia + dinheiro,0.9722222222222222
+2020,10,Somente dinheiro,0.8875000000000001
+2020,10,Votos correntes + lista,0.995
+2020,10,Votos correntes + lista + dinheiro,0.9675
+2020,10,Viabilidade prévia,0.87375
+2020,10,Viabilidade prévia + dinheiro,0.885
+2020,11,Somente dinheiro,0.9753086419753086
+2020,11,Votos correntes + lista,0.9938271604938271
+2020,11,Votos correntes + lista + dinheiro,0.9907407407407407
+2020,11,Viabilidade prévia,0.8734567901234567
+2020,11,Viabilidade prévia + dinheiro,0.9722222222222223
+2020,12,Somente dinheiro,0.9166666666666666
+2020,12,Votos correntes + lista,0.9814814814814816
+2020,12,Votos correntes + lista + dinheiro,0.9814814814814815
+2020,12,Viabilidade prévia,0.9629629629629629
+2020,12,Viabilidade prévia + dinheiro,0.9660493827160493
+2020,13,Somente dinheiro,0.941358024691358
+2020,13,Votos correntes + lista,1.0
+2020,13,Votos correntes + lista + dinheiro,0.9907407407407407
+2020,13,Viabilidade prévia,0.7885802469135802
+2020,13,Viabilidade prévia + dinheiro,0.9382716049382716
+2020,14,Somente dinheiro,0.941358024691358
+2020,14,Votos correntes + lista,0.9907407407407407
+2020,14,Votos correntes + lista + dinheiro,0.9938271604938271
+2020,14,Viabilidade prévia,0.904320987654321
+2020,14,Viabilidade prévia + dinheiro,0.9444444444444444
+2020,15,Somente dinheiro,0.8725
+2020,15,Votos correntes + lista,0.9875
+2020,15,Votos correntes + lista + dinheiro,0.985
+2020,15,Viabilidade prévia,0.75375
+2020,15,Viabilidade prévia + dinheiro,0.8850000000000001
+2020,16,Somente dinheiro,0.9506172839506173
+2020,16,Votos correntes + lista,0.9938271604938271
+2020,16,Votos correntes + lista + dinheiro,0.9907407407407408
+2020,16,Viabilidade prévia,0.8395061728395062
+2020,16,Viabilidade prévia + dinheiro,0.947530864197531
+2020,17,Somente dinheiro,0.8734567901234568
+2020,17,Votos correntes + lista,1.0
+2020,17,Votos correntes + lista + dinheiro,0.9969135802469137
+2020,17,Viabilidade prévia,0.8533950617283951
+2020,17,Viabilidade prévia + dinheiro,0.8919753086419754
+2020,18,Somente dinheiro,0.9691358024691359
+2020,18,Votos correntes + lista,0.9845679012345678
+2020,18,Votos correntes + lista + dinheiro,0.9876543209876543
+2020,18,Viabilidade prévia,0.8317901234567902
+2020,18,Viabilidade prévia + dinheiro,0.9722222222222222
+2020,19,Somente dinheiro,0.9475308641975309
+2020,19,Votos correntes + lista,0.9876543209876544
+2020,19,Votos correntes + lista + dinheiro,0.9907407407407408
+2020,19,Viabilidade prévia,0.8379629629629629
+2020,19,Viabilidade prévia + dinheiro,0.9537037037037037
+2020,20,Somente dinheiro,0.9025000000000001
+2020,20,Votos correntes + lista,0.995
+2020,20,Votos correntes + lista + dinheiro,0.9774999999999999
+2020,20,Viabilidade prévia,0.85125
+2020,20,Viabilidade prévia + dinheiro,0.93
+2020,21,Somente dinheiro,0.9290123456790124
+2020,21,Votos correntes + lista,0.9907407407407408
+2020,21,Votos correntes + lista + dinheiro,0.9969135802469136
+2020,21,Viabilidade prévia,0.8009259259259259
+2020,21,Viabilidade prévia + dinheiro,0.9320987654320988
+2020,22,Somente dinheiro,0.9382716049382717
+2020,22,Votos correntes + lista,0.984567901234568
+2020,22,Votos correntes + lista + dinheiro,0.9753086419753088
+2020,22,Viabilidade prévia,0.9598765432098766
+2020,22,Viabilidade prévia + dinheiro,0.9413580246913581
+2020,23,Somente dinheiro,0.9074074074074074
+2020,23,Votos correntes + lista,1.0
+2020,23,Votos correntes + lista + dinheiro,0.9907407407407407
+2020,23,Viabilidade prévia,0.845679012345679
+2020,23,Viabilidade prévia + dinheiro,0.8981481481481481
+2020,24,Somente dinheiro,0.9691358024691358
+2020,24,Votos correntes + lista,0.9969135802469136
+2020,24,Votos correntes + lista + dinheiro,0.9938271604938271
+2020,24,Viabilidade prévia,0.7191358024691359
+2020,24,Viabilidade prévia + dinheiro,0.9537037037037037
+2020,25,Somente dinheiro,0.9175
+2020,25,Votos correntes + lista,0.9975
+2020,25,Votos correntes + lista + dinheiro,0.9874999999999999
+2020,25,Viabilidade prévia,0.8687499999999999
+2020,25,Viabilidade prévia + dinheiro,0.95
+2020,26,Somente dinheiro,0.9444444444444445
+2020,26,Votos correntes + lista,0.9907407407407407
+2020,26,Votos correntes + lista + dinheiro,0.9876543209876543
+2020,26,Viabilidade prévia,0.7777777777777778
+2020,26,Viabilidade prévia + dinheiro,0.9320987654320988
+2020,27,Somente dinheiro,0.7592592592592593
+2020,27,Votos correntes + lista,0.9845679012345678
+2020,27,Votos correntes + lista + dinheiro,0.9537037037037037
+2020,27,Viabilidade prévia,0.9104938271604938
+2020,27,Viabilidade prévia + dinheiro,0.808641975308642
+2020,28,Somente dinheiro,0.95679012345679
+2020,28,Votos correntes + lista,0.9845679012345679
+2020,28,Votos correntes + lista + dinheiro,0.9845679012345678
+2020,28,Viabilidade prévia,0.8225308641975309
+2020,28,Viabilidade prévia + dinheiro,0.947530864197531
+2020,29,Somente dinheiro,0.9691358024691358
+2020,29,Votos correntes + lista,1.0
+2020,29,Votos correntes + lista + dinheiro,1.0
+2020,29,Viabilidade prévia,0.8858024691358025
+2020,29,Viabilidade prévia + dinheiro,0.9845679012345679
+2020,30,Somente dinheiro,0.9550000000000001
+2020,30,Votos correntes + lista,0.9775
+2020,30,Votos correntes + lista + dinheiro,0.985
+2020,30,Viabilidade prévia,0.8175000000000001
+2020,30,Viabilidade prévia + dinheiro,0.9425
+2020,31,Somente dinheiro,0.9074074074074073
+2020,31,Votos correntes + lista,0.9969135802469137
+2020,31,Votos correntes + lista + dinheiro,0.9938271604938271
+2020,31,Viabilidade prévia,0.7685185185185186
+2020,31,Viabilidade prévia + dinheiro,0.9506172839506173
+2020,32,Somente dinheiro,0.9074074074074074
+2020,32,Votos correntes + lista,0.9907407407407408
+2020,32,Votos correntes + lista + dinheiro,0.9876543209876543
+2020,32,Viabilidade prévia,0.8950617283950617
+2020,32,Viabilidade prévia + dinheiro,0.9074074074074074
+2020,33,Somente dinheiro,0.947530864197531
+2020,33,Votos correntes + lista,0.9907407407407408
+2020,33,Votos correntes + lista + dinheiro,0.9876543209876544
+2020,33,Viabilidade prévia,0.7623456790123457
+2020,33,Viabilidade prévia + dinheiro,0.9320987654320989
+2020,34,Somente dinheiro,0.8981481481481481
+2020,34,Votos correntes + lista,0.9783950617283951
+2020,34,Votos correntes + lista + dinheiro,0.9537037037037037
+2020,34,Viabilidade prévia,0.9243827160493828
+2020,34,Viabilidade prévia + dinheiro,0.904320987654321
+2020,35,Somente dinheiro,0.94
+2020,35,Votos correntes + lista,0.9925
+2020,35,Votos correntes + lista + dinheiro,0.995
+2020,35,Viabilidade prévia,0.8462500000000001
+2020,35,Viabilidade prévia + dinheiro,0.9525
+2020,36,Somente dinheiro,0.9290123456790124
+2020,36,Votos correntes + lista,1.0
+2020,36,Votos correntes + lista + dinheiro,0.9876543209876543
+2020,36,Viabilidade prévia,0.7669753086419753
+2020,36,Viabilidade prévia + dinheiro,0.9259259259259259
+2020,37,Somente dinheiro,0.8765432098765432
+2020,37,Votos correntes + lista,0.9876543209876543
+2020,37,Votos correntes + lista + dinheiro,0.9814814814814815
+2020,37,Viabilidade prévia,0.6589506172839507
+2020,37,Viabilidade prévia + dinheiro,0.8549382716049382
+2020,38,Somente dinheiro,0.9259259259259259
+2020,38,Votos correntes + lista,0.9845679012345679
+2020,38,Votos correntes + lista + dinheiro,0.9783950617283951
+2020,38,Viabilidade prévia,0.8641975308641976
+2020,38,Viabilidade prévia + dinheiro,0.9320987654320989
+2020,39,Somente dinheiro,0.8734567901234568
+2020,39,Votos correntes + lista,0.9969135802469137
+2020,39,Votos correntes + lista + dinheiro,0.9783950617283951
+2020,39,Viabilidade prévia,0.9907407407407407
+2020,39,Viabilidade prévia + dinheiro,0.9166666666666667
+2020,40,Somente dinheiro,0.975
+2020,40,Votos correntes + lista,0.9800000000000001
+2020,40,Votos correntes + lista + dinheiro,0.985
+2020,40,Viabilidade prévia,0.90125
+2020,40,Viabilidade prévia + dinheiro,0.975
+2020,41,Somente dinheiro,0.8950617283950617
+2020,41,Votos correntes + lista,1.0
+2020,41,Votos correntes + lista + dinheiro,0.9938271604938271
+2020,41,Viabilidade prévia,0.6728395061728395
+2020,41,Viabilidade prévia + dinheiro,0.8765432098765432
+2020,42,Somente dinheiro,0.9475308641975309
+2020,42,Votos correntes + lista,0.9814814814814816
+2020,42,Votos correntes + lista + dinheiro,0.9814814814814815
+2020,42,Viabilidade prévia,0.8595679012345678
+2020,42,Viabilidade prévia + dinheiro,0.9660493827160493
+2020,43,Somente dinheiro,0.8981481481481481
+2020,43,Votos correntes + lista,0.9845679012345679
+2020,43,Votos correntes + lista + dinheiro,0.9876543209876543
+2020,43,Viabilidade prévia,0.8456790123456791
+2020,43,Viabilidade prévia + dinheiro,0.9567901234567902
+2020,44,Somente dinheiro,0.8981481481481481
+2020,44,Votos correntes + lista,0.9660493827160495
+2020,44,Votos correntes + lista + dinheiro,0.9598765432098765
+2020,44,Viabilidade prévia,0.9382716049382716
+2020,44,Viabilidade prévia + dinheiro,0.9320987654320988
+2020,45,Somente dinheiro,0.9625
+2020,45,Votos correntes + lista,1.0
+2020,45,Votos correntes + lista + dinheiro,0.9975
+2020,45,Viabilidade prévia,0.935
+2020,45,Viabilidade prévia + dinheiro,0.9675
+2020,46,Somente dinheiro,0.9444444444444444
+2020,46,Votos correntes + lista,0.9753086419753086
+2020,46,Votos correntes + lista + dinheiro,0.9722222222222222
+2020,46,Viabilidade prévia,0.7515432098765432
+2020,46,Viabilidade prévia + dinheiro,0.9351851851851852
+2020,47,Somente dinheiro,0.8611111111111112
+2020,47,Votos correntes + lista,0.9876543209876543
+2020,47,Votos correntes + lista + dinheiro,0.9722222222222222
+2020,47,Viabilidade prévia,0.8287037037037037
+2020,47,Viabilidade prévia + dinheiro,0.8395061728395062
+2020,48,Somente dinheiro,0.9228395061728395
+2020,48,Votos correntes + lista,1.0
+2020,48,Votos correntes + lista + dinheiro,0.9969135802469136
+2020,48,Viabilidade prévia,0.9521604938271605
+2020,48,Viabilidade prévia + dinheiro,0.9783950617283951
+2020,49,Somente dinheiro,0.9814814814814815
+2020,49,Votos correntes + lista,0.9938271604938271
+2020,49,Votos correntes + lista + dinheiro,0.9938271604938271
+2020,49,Viabilidade prévia,0.8317901234567902
+2020,49,Viabilidade prévia + dinheiro,0.9783950617283951
+2020,50,Somente dinheiro,0.9025
+2020,50,Votos correntes + lista,0.9875
+2020,50,Votos correntes + lista + dinheiro,0.985
+2020,50,Viabilidade prévia,0.85
+2020,50,Viabilidade prévia + dinheiro,0.9325
+2024,1,Somente dinheiro,0.8351063829787234
+2024,1,Votos correntes + lista,1.0
+2024,1,Votos correntes + lista + dinheiro,0.9893617021276595
+2024,1,Viabilidade prévia,0.8297872340425532
+2024,1,Viabilidade prévia + dinheiro,0.8776595744680852
+2024,2,Somente dinheiro,0.8956521739130435
+2024,2,Votos correntes + lista,1.0
+2024,2,Votos correntes + lista + dinheiro,0.9956521739130435
+2024,2,Viabilidade prévia,0.9065217391304349
+2024,2,Viabilidade prévia + dinheiro,0.9217391304347827
+2024,3,Somente dinheiro,0.9239130434782609
+2024,3,Votos correntes + lista,1.0
+2024,3,Votos correntes + lista + dinheiro,1.0
+2024,3,Viabilidade prévia,0.7119565217391304
+2024,3,Viabilidade prévia + dinheiro,0.9184782608695653
+2024,4,Somente dinheiro,1.0
+2024,4,Votos correntes + lista,1.0
+2024,4,Votos correntes + lista + dinheiro,1.0
+2024,4,Viabilidade prévia,0.7717391304347826
+2024,4,Viabilidade prévia + dinheiro,0.9836956521739131
+2024,5,Somente dinheiro,0.9293478260869565
+2024,5,Votos correntes + lista,1.0
+2024,5,Votos correntes + lista + dinheiro,1.0
+2024,5,Viabilidade prévia,0.9239130434782609
+2024,5,Viabilidade prévia + dinheiro,0.9728260869565217
+2024,6,Somente dinheiro,0.8829787234042553
+2024,6,Votos correntes + lista,1.0
+2024,6,Votos correntes + lista + dinheiro,1.0
+2024,6,Viabilidade prévia,0.7287234042553191
+2024,6,Viabilidade prévia + dinheiro,0.9095744680851064
+2024,7,Somente dinheiro,0.9347826086956522
+2024,7,Votos correntes + lista,1.0
+2024,7,Votos correntes + lista + dinheiro,1.0
+2024,7,Viabilidade prévia,0.9434782608695653
+2024,7,Viabilidade prévia + dinheiro,0.9739130434782608
+2024,8,Somente dinheiro,1.0
+2024,8,Votos correntes + lista,0.9836956521739131
+2024,8,Votos correntes + lista + dinheiro,1.0
+2024,8,Viabilidade prévia,0.7663043478260869
+2024,8,Viabilidade prévia + dinheiro,0.9510869565217391
+2024,9,Somente dinheiro,0.9402173913043479
+2024,9,Votos correntes + lista,1.0
+2024,9,Votos correntes + lista + dinheiro,1.0
+2024,9,Viabilidade prévia,0.7554347826086956
+2024,9,Viabilidade prévia + dinheiro,0.9619565217391305
+2024,10,Somente dinheiro,0.8641304347826086
+2024,10,Votos correntes + lista,1.0
+2024,10,Votos correntes + lista + dinheiro,0.9782608695652174
+2024,10,Viabilidade prévia,0.7146739130434783
+2024,10,Viabilidade prévia + dinheiro,0.8695652173913043
+2024,11,Somente dinheiro,0.9202127659574468
+2024,11,Votos correntes + lista,1.0
+2024,11,Votos correntes + lista + dinheiro,1.0
+2024,11,Viabilidade prévia,0.696808510638298
+2024,11,Viabilidade prévia + dinheiro,0.8776595744680852
+2024,12,Somente dinheiro,0.9652173913043479
+2024,12,Votos correntes + lista,1.0
+2024,12,Votos correntes + lista + dinheiro,1.0
+2024,12,Viabilidade prévia,0.7934782608695653
+2024,12,Viabilidade prévia + dinheiro,0.9695652173913044
+2024,13,Somente dinheiro,0.8695652173913043
+2024,13,Votos correntes + lista,1.0
+2024,13,Votos correntes + lista + dinheiro,0.9836956521739131
+2024,13,Viabilidade prévia,0.7445652173913044
+2024,13,Viabilidade prévia + dinheiro,0.8804347826086956
+2024,14,Somente dinheiro,0.9456521739130436
+2024,14,Votos correntes + lista,1.0
+2024,14,Votos correntes + lista + dinheiro,1.0
+2024,14,Viabilidade prévia,0.8913043478260869
+2024,14,Viabilidade prévia + dinheiro,0.9402173913043479
+2024,15,Somente dinheiro,0.9021739130434783
+2024,15,Votos correntes + lista,1.0
+2024,15,Votos correntes + lista + dinheiro,1.0
+2024,15,Viabilidade prévia,0.9402173913043478
+2024,15,Viabilidade prévia + dinheiro,0.9293478260869567
+2024,16,Somente dinheiro,0.9308510638297872
+2024,16,Votos correntes + lista,1.0
+2024,16,Votos correntes + lista + dinheiro,0.9840425531914894
+2024,16,Viabilidade prévia,0.9574468085106382
+2024,16,Viabilidade prévia + dinheiro,0.9627659574468085
+2024,17,Somente dinheiro,0.9434782608695652
+2024,17,Votos correntes + lista,1.0
+2024,17,Votos correntes + lista + dinheiro,1.0
+2024,17,Viabilidade prévia,0.42826086956521736
+2024,17,Viabilidade prévia + dinheiro,0.8043478260869565
+2024,18,Somente dinheiro,0.8804347826086957
+2024,18,Votos correntes + lista,1.0
+2024,18,Votos correntes + lista + dinheiro,1.0
+2024,18,Viabilidade prévia,0.7635869565217391
+2024,18,Viabilidade prévia + dinheiro,0.8858695652173914
+2024,19,Somente dinheiro,0.9565217391304349
+2024,19,Votos correntes + lista,1.0
+2024,19,Votos correntes + lista + dinheiro,1.0
+2024,19,Viabilidade prévia,0.9619565217391305
+2024,19,Viabilidade prévia + dinheiro,1.0
+2024,20,Somente dinheiro,0.8532608695652174
+2024,20,Votos correntes + lista,1.0
+2024,20,Votos correntes + lista + dinheiro,1.0
+2024,20,Viabilidade prévia,0.9565217391304348
+2024,20,Viabilidade prévia + dinheiro,0.9402173913043478
+2024,21,Somente dinheiro,0.8138297872340425
+2024,21,Votos correntes + lista,1.0
+2024,21,Votos correntes + lista + dinheiro,1.0
+2024,21,Viabilidade prévia,0.7234042553191489
+2024,21,Viabilidade prévia + dinheiro,0.8297872340425532
+2024,22,Somente dinheiro,0.9043478260869565
+2024,22,Votos correntes + lista,1.0
+2024,22,Votos correntes + lista + dinheiro,0.991304347826087
+2024,22,Viabilidade prévia,0.9347826086956522
+2024,22,Viabilidade prévia + dinheiro,0.9521739130434782
+2024,23,Somente dinheiro,0.9347826086956522
+2024,23,Votos correntes + lista,1.0
+2024,23,Votos correntes + lista + dinheiro,1.0
+2024,23,Viabilidade prévia,0.9891304347826088
+2024,23,Viabilidade prévia + dinheiro,0.9945652173913043
+2024,24,Somente dinheiro,0.9945652173913043
+2024,24,Votos correntes + lista,1.0
+2024,24,Votos correntes + lista + dinheiro,1.0
+2024,24,Viabilidade prévia,0.6576086956521741
+2024,24,Viabilidade prévia + dinheiro,0.9456521739130435
+2024,25,Somente dinheiro,0.9402173913043478
+2024,25,Votos correntes + lista,1.0
+2024,25,Votos correntes + lista + dinheiro,1.0
+2024,25,Viabilidade prévia,0.8260869565217391
+2024,25,Viabilidade prévia + dinheiro,0.9347826086956522
+2024,26,Somente dinheiro,0.9042553191489362
+2024,26,Votos correntes + lista,1.0
+2024,26,Votos correntes + lista + dinheiro,1.0
+2024,26,Viabilidade prévia,0.7845744680851064
+2024,26,Viabilidade prévia + dinheiro,0.9148936170212766
+2024,27,Somente dinheiro,0.908695652173913
+2024,27,Votos correntes + lista,1.0
+2024,27,Votos correntes + lista + dinheiro,1.0
+2024,27,Viabilidade prévia,0.7478260869565219
+2024,27,Viabilidade prévia + dinheiro,0.8913043478260869
+2024,28,Somente dinheiro,0.8641304347826088
+2024,28,Votos correntes + lista,1.0
+2024,28,Votos correntes + lista + dinheiro,0.9891304347826088
+2024,28,Viabilidade prévia,1.0
+2024,28,Viabilidade prévia + dinheiro,0.9565217391304347
+2024,29,Somente dinheiro,0.9510869565217391
+2024,29,Votos correntes + lista,1.0
+2024,29,Votos correntes + lista + dinheiro,1.0
+2024,29,Viabilidade prévia,0.5842391304347826
+2024,29,Viabilidade prévia + dinheiro,0.9130434782608696
+2024,30,Somente dinheiro,0.9728260869565217
+2024,30,Votos correntes + lista,1.0
+2024,30,Votos correntes + lista + dinheiro,1.0
+2024,30,Viabilidade prévia,0.9619565217391305
+2024,30,Viabilidade prévia + dinheiro,0.9891304347826088
+2024,31,Somente dinheiro,0.7606382978723405
+2024,31,Votos correntes + lista,1.0
+2024,31,Votos correntes + lista + dinheiro,0.9787234042553191
+2024,31,Viabilidade prévia,0.824468085106383
+2024,31,Viabilidade prévia + dinheiro,0.8085106382978723
+2024,32,Somente dinheiro,0.8608695652173913
+2024,32,Votos correntes + lista,0.9956521739130435
+2024,32,Votos correntes + lista + dinheiro,1.0
+2024,32,Viabilidade prévia,0.6065217391304348
+2024,32,Viabilidade prévia + dinheiro,0.8521739130434782
+2024,33,Somente dinheiro,0.9565217391304349
+2024,33,Votos correntes + lista,1.0
+2024,33,Votos correntes + lista + dinheiro,1.0
+2024,33,Viabilidade prévia,0.8641304347826086
+2024,33,Viabilidade prévia + dinheiro,0.9402173913043479
+2024,34,Somente dinheiro,1.0
+2024,34,Votos correntes + lista,1.0
+2024,34,Votos correntes + lista + dinheiro,1.0
+2024,34,Viabilidade prévia,0.9619565217391305
+2024,34,Viabilidade prévia + dinheiro,1.0
+2024,35,Somente dinheiro,0.9891304347826088
+2024,35,Votos correntes + lista,1.0
+2024,35,Votos correntes + lista + dinheiro,1.0
+2024,35,Viabilidade prévia,0.7608695652173914
+2024,35,Viabilidade prévia + dinheiro,0.9728260869565218
+2024,36,Somente dinheiro,0.9680851063829787
+2024,36,Votos correntes + lista,0.9946808510638298
+2024,36,Votos correntes + lista + dinheiro,1.0
+2024,36,Viabilidade prévia,0.7420212765957447
+2024,36,Viabilidade prévia + dinheiro,0.9521276595744681
+2024,37,Somente dinheiro,0.9304347826086956
+2024,37,Votos correntes + lista,1.0
+2024,37,Votos correntes + lista + dinheiro,0.9956521739130435
+2024,37,Viabilidade prévia,0.9652173913043479
+2024,37,Viabilidade prévia + dinheiro,0.9521739130434783
+2024,38,Somente dinheiro,0.8913043478260869
+2024,38,Votos correntes + lista,1.0
+2024,38,Votos correntes + lista + dinheiro,0.9945652173913043
+2024,38,Viabilidade prévia,0.875
+2024,38,Viabilidade prévia + dinheiro,0.9130434782608696
+2024,39,Somente dinheiro,0.891304347826087
+2024,39,Votos correntes + lista,1.0
+2024,39,Votos correntes + lista + dinheiro,0.9836956521739131
+2024,39,Viabilidade prévia,0.9456521739130435
+2024,39,Viabilidade prévia + dinheiro,0.9510869565217391
+2024,40,Somente dinheiro,0.9239130434782609
+2024,40,Votos correntes + lista,1.0
+2024,40,Votos correntes + lista + dinheiro,1.0
+2024,40,Viabilidade prévia,0.49728260869565216
+2024,40,Viabilidade prévia + dinheiro,0.8804347826086957
+2024,41,Somente dinheiro,0.9680851063829787
+2024,41,Votos correntes + lista,1.0
+2024,41,Votos correntes + lista + dinheiro,1.0
+2024,41,Viabilidade prévia,0.9202127659574468
+2024,41,Viabilidade prévia + dinheiro,0.9574468085106383
+2024,42,Somente dinheiro,0.9434782608695652
+2024,42,Votos correntes + lista,1.0
+2024,42,Votos correntes + lista + dinheiro,0.9956521739130435
+2024,42,Viabilidade prévia,0.9739130434782608
+2024,42,Viabilidade prévia + dinheiro,0.991304347826087
+2024,43,Somente dinheiro,0.9619565217391305
+2024,43,Votos correntes + lista,1.0
+2024,43,Votos correntes + lista + dinheiro,1.0
+2024,43,Viabilidade prévia,0.6494565217391305
+2024,43,Viabilidade prévia + dinheiro,0.8913043478260869
+2024,44,Somente dinheiro,0.9021739130434782
+2024,44,Votos correntes + lista,1.0
+2024,44,Votos correntes + lista + dinheiro,0.9945652173913043
+2024,44,Viabilidade prévia,0.9891304347826088
+2024,44,Viabilidade prévia + dinheiro,0.9782608695652174
+2024,45,Somente dinheiro,0.7989130434782609
+2024,45,Votos correntes + lista,1.0
+2024,45,Votos correntes + lista + dinheiro,0.9891304347826088
+2024,45,Viabilidade prévia,0.5108695652173914
+2024,45,Viabilidade prévia + dinheiro,0.8152173913043479
+2024,46,Somente dinheiro,0.9680851063829786
+2024,46,Votos correntes + lista,1.0
+2024,46,Votos correntes + lista + dinheiro,1.0
+2024,46,Viabilidade prévia,0.7872340425531916
+2024,46,Viabilidade prévia + dinheiro,0.9787234042553191
+2024,47,Somente dinheiro,0.8913043478260869
+2024,47,Votos correntes + lista,1.0
+2024,47,Votos correntes + lista + dinheiro,1.0
+2024,47,Viabilidade prévia,0.7260869565217392
+2024,47,Viabilidade prévia + dinheiro,0.8608695652173913
+2024,48,Somente dinheiro,0.8858695652173914
+2024,48,Votos correntes + lista,1.0
+2024,48,Votos correntes + lista + dinheiro,0.9782608695652174
+2024,48,Viabilidade prévia,0.9619565217391305
+2024,48,Viabilidade prévia + dinheiro,0.9293478260869565
+2024,49,Somente dinheiro,0.9619565217391304
+2024,49,Votos correntes + lista,1.0
+2024,49,Votos correntes + lista + dinheiro,1.0
+2024,49,Viabilidade prévia,0.7119565217391304
+2024,49,Viabilidade prévia + dinheiro,0.8858695652173914
+2024,50,Somente dinheiro,0.9184782608695652
+2024,50,Votos correntes + lista,1.0
+2024,50,Votos correntes + lista + dinheiro,1.0
+2024,50,Viabilidade prévia,0.9184782608695652
+2024,50,Viabilidade prévia + dinheiro,0.9782608695652175

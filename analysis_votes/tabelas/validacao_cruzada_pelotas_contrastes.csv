@@ -1,0 +1,6 @@
+ano,contraste,modelo_base,modelo_expandido,delta_auc_medio,delta_auc_mediano,delta_auc_p10,delta_auc_p90,fracao_folds_delta_positivo,folds_pareados
+2016,Dinheiro após votos correntes + lista,Votos correntes + lista,Votos correntes + lista + dinheiro,-0.008966517857142853,-0.007874503968253899,-0.0223809523809523,0.003247767857142948,0.16,50
+2020,Dinheiro após votos correntes + lista,Votos correntes + lista,Votos correntes + lista + dinheiro,-0.004950617283950644,-0.0030864197530864335,-0.01563888888888886,0.0030864197530864335,0.18,50
+2020,Dinheiro após viabilidade prévia,Viabilidade prévia,Viabilidade prévia + dinheiro,0.08814104938271608,0.09490740740740738,-0.006172839506172767,0.18225308641975302,0.88,50
+2024,Dinheiro após votos correntes + lista,Votos correntes + lista,Votos correntes + lista + dinheiro,-0.0030467160037002737,0.0,-0.01599213691026826,0.0,0.06,50
+2024,Dinheiro após viabilidade prévia,Viabilidade prévia,Viabilidade prévia + dinheiro,0.1150654486586494,0.10753931544865869,-0.011086956521739176,0.24989130434782605,0.86,50

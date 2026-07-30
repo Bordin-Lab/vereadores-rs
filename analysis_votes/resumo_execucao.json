@@ -1,0 +1,14 @@
+{
+  "painel_candidatos": 81974,
+  "municipios": 497,
+  "pelotas_2024": {
+    "rho_receita_votos": 0.6676546369712337,
+    "auc_receita_eleicao": 0.9204287775716347,
+    "auc_votos_eleicao": 0.997732426303855,
+    "auc_forca_lista_eleicao": 0.733044733044733,
+    "atenuacao_beta_dinheiro_apos_votos_lista_rs": 0.9321946428574035,
+    "delta_auc_dinheiro_apos_viabilidade_previa": 0.1150654486586494,
+    "delta_auc_dinheiro_apos_votos_lista": -0.0030467160037002737
+  },
+  "interpretacao": "A receita está fortemente associada aos votos. No LPM estadual, votos nominais e força da lista absorvem a maior parte do coeficiente do dinheiro. Em Pelotas, dinheiro acrescenta previsão à viabilidade prévia, mas acrescenta pouco depois de observados os votos correntes e a lista."
+}

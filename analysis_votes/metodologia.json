@@ -1,0 +1,20 @@
+{
+  "universo": "candidaturas válidas a vereador nos 497 municípios do RS, 2016, 2020 e 2024",
+  "votos_nominais": "soma de QT_VOTOS_NOMINAIS_VALIDOS por SQ_CANDIDATO nas zonas do município",
+  "forca_lista": {
+    "2016": "votos válidos da coligação proporcional",
+    "2020": "votos válidos do partido",
+    "2024": "votos válidos da federação, quando existente; caso contrário, partido",
+    "formula": "votos nominais válidos + QT_TOTAL_VOTOS_LEG_VALIDOS, divididos pelos votos válidos de todas as listas do município"
+  },
+  "viabilidade_previa": "retorno e incumbência por nome completo normalizado no mesmo município; votos nominais anteriores; participação anterior do partido ou dos componentes da federação",
+  "modelo_dinheiro_votos": "OLS em log2(1+votos), com efeitos fixos de município ou da lista eleitoral e erros-padrão clusterizados por município",
+  "modelo_eleicao": "logit condicional exato por município para dinheiro, lista e viabilidade prévia; LPM com efeito fixo municipal e erros-padrão clusterizados para a atenuação após votos correntes",
+  "separacao": "votos nominais correntes quase separam perfeitamente eleitos e não eleitos. Por isso, o logit exato com votos não é usado para inferência; a contribuição dos votos é avaliada por LPM e AUC fora da amostra",
+  "cautela": "votos correntes e força corrente da lista são mediadores pós-campanha. Atenuação do coeficiente não identifica mediação causal.",
+  "fontes": {
+    "2016": "https://dadosabertos.tse.jus.br/dataset/resultados-2016",
+    "2020": "https://dadosabertos.tse.jus.br/dataset/resultados-2020",
+    "2024": "https://dadosabertos.tse.jus.br/dataset/resultados-2024"
+  }
+}
