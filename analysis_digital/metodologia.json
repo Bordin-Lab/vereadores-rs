@@ -1,0 +1,27 @@
+{
+  "unidade_analise": "candidatura a vereador com resultado final válido",
+  "universo": "todos os 497 municípios do Rio Grande do Sul, 2016, 2020 e 2024",
+  "despesa_2020_2024": "despesas contratadas da prestação final; cada linha do arquivo oficial é preservada, inclusive rateios que repetem SQ_DESPESA entre candidatos",
+  "despesa_2016": "arquivo final de despesas; rubricas iniciadas por 'Baixa de Estimaveis - ' são incluídas como despesas em espécie estimável e harmonizadas à rubrica-base",
+  "digital_estrito": [
+    "Criação e inclusão de páginas na internet",
+    "Despesa com Impulsionamento de Conteúdos"
+  ],
+  "nao_incluido_em_digital": "produção de rádio, televisão, vídeo, jingles e slogans; o canal de veiculação não é identificável apenas pela rubrica e, por isso, forma categoria audiovisual",
+  "deflacionamento": {
+    "indice": "IPCA geral no mês da eleição",
+    "base": "outubro de 2024",
+    "indices": {
+      "2016": 4752.86,
+      "2020": 5438.12,
+      "2024": 7036.33
+    }
+  },
+  "modelo_principal": "logit condicional exato por município em cada ano, erros-padrão clusterizados por município; fração digital entra em unidades de 10 pontos percentuais, controlando log2(1 + despesa total real/1000)",
+  "interpretacao": "associações descritivas e condicionais; os dados observacionais não identificam efeito causal do gasto digital",
+  "fontes": {
+    "2016": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2016",
+    "2020": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2020",
+    "2024": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2024"
+  }
+}

@@ -1,0 +1,6 @@
+ano,comparacao,lr,graus_liberdade,p_valor_lr,n,municipios
+2016,Total + fração digital vs. Total,1.5118867451128608,1,0.2188514114005148,25622,497
+2020,Total + fração digital vs. Total,0.06368351616765722,1,0.8007659595558321,30311,497
+2020,Total + adoção + fração digital vs. Total,1.673693336913857,2,0.4330739984546783,30311,497
+2024,Total + fração digital vs. Total,0.41830203708741465,1,0.5177855129407831,26041,497
+2024,Total + adoção + fração digital vs. Total,15.011151398171933,2,0.0005500091194340881,26041,497

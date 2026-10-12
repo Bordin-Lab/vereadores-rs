@@ -1,0 +1,4 @@
+ano,arquivo,linhas_arquivo,linhas_vereador,linhas_valor_zero,linhas_valor_negativo,candidatos_com_despesa_positiva,valor_total_nominal_vereadores,candidatos_painel_valido,candidatos_despesa_fora_painel,candidatos_painel_sem_despesa_positiva,candidatos_despesa_integrados
+2016,despesas_candidatos_prestacao_contas_final_2016_RS.txt,342217,272434,4,0,24878,83197675.75999999,25622,393,1137,24485
+2020,despesas_contratadas_candidatos_2020_RS.csv,281157,209861,5728,0,24948,69738193.75,30311,123,5486,24825
+2024,despesas_contratadas_candidatos_2024_RS.csv,291428,215772,2963,0,23561,141137234.69,26041,114,2594,23447
