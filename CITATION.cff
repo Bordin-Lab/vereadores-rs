@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite the associated article and this software release."
+title: "Campaign finance, votes, and partial electoral decoupling in Rio Grande do Sul"
+version: 0.2.0
+date-released: 2026-07-30
+type: software
+authors:
+  - family-names: "Santos Marques"
+    given-names: "Alenilson"
+  - family-names: "Pereira dos Santos"
+    given-names: "Alexsandra"
+  - family-names: "Carneiro da Rosa"
+    given-names: "Rosiane"
+  - family-names: "Bordin"
+    given-names: "José Rafael"
+    email: "jrbordin@ufpel.edu.br"
+preferred-citation:
+  type: article
+  title: "Institutional Rewiring and Partial Electoral Decoupling: Campaign Finance, Votes, and Local Heterogeneity across 497 Brazilian Municipalities"
+  authors:
+    - family-names: "Santos Marques"
+      given-names: "Alenilson"
+    - family-names: "Pereira dos Santos"
+      given-names: "Alexsandra"
+    - family-names: "Carneiro da Rosa"
+      given-names: "Rosiane"
+    - family-names: "Bordin"
+      given-names: "José Rafael"
+  year: 2026
