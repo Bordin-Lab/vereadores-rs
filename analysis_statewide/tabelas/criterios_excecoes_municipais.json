@@ -1,0 +1,15 @@
+{
+  "auc_top10_bruto": {
+    "2016": 0.905906432748538,
+    "2020": 0.8784515571917146,
+    "2024": 0.8611812865497076
+  },
+  "auc_top10_ajustado": "percentil >= 0,90 do resíduo de AUC após ajuste quadrático por log(1 + número de candidatos), em cada ano",
+  "acoplamento_alto_persistente": "top 10% bruto ou ajustado por tamanho em pelo menos dois dos três anos",
+  "contratendencia_auc": "AUC 2024 - AUC 2016 >= 0",
+  "contratendencia_auc_forte": "AUC 2024 - AUC 2016 >= 0,10",
+  "concentracao_alta_2024_ajustada": "percentil >= 0,90 do resíduo de Gini após ajuste quadrático por log(1 + número de candidatos)",
+  "publicizacao_baixa_2024": "fração pública <= percentil 10 estadual (0.414302)",
+  "excecao_multidimensional": "dois ou mais dos quatro critérios principais",
+  "idhm": "Atlas do Desenvolvimento Humano, Censo 2010; Pinto Bandeira sem valor porque foi instalado após o censo"
+}
